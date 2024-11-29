@@ -1,5 +1,5 @@
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
+![tw-banner](https://github.com/user-attachments/assets/1a3eeac5-dad4-419a-93b8-ff70ab6775e7)
 
 
 ## Environment Variables
